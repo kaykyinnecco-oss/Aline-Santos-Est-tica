@@ -11,7 +11,7 @@ export const business = {
 };
 export const mediaRoot = '/images/estetica-aline/';
 export const media = {
- logo: {file:'logo-aline.webp',width:291,height:273,alt:'Aline Santos — Estética Humanizada'},
+ logo: {file:'logo-aline-transparente.png',width:291,height:273,alt:'Aline Santos — Estética Humanizada'},
  aline: {file:'aline-santos.webp',width:1080,height:1080,alt:'Aline Santos, esteticista, com uniforme verde no espaço de atendimento'},
  hero: {file:'hero-estetica-aline.webp',width:1536,height:1024,alt:'Cena ilustrativa de autocuidado: mulher adulta em um ambiente acolhedor'},
  facial: {file:'procedimento-facial.webp',width:1536,height:1024,alt:'Imagem ilustrativa de cuidado facial com as mãos apoiadas suavemente no rosto'},

@@ -19,7 +19,7 @@ Todos os caminhos abaixo partem de `C:/Users/DELL/Desktop/Estética Aline Santos
 
 | Caminho exato | Conteúdo / seção | Recorte desktop | Recorte celular |
 | --- | --- | --- | --- |
-| `dist/images/estetica-aline/logo-aline.webp` | Logo fornecida; cabeçalho e rodapé | Integral | Integral |
+| `dist/images/estetica-aline/logo-aline-transparente.png` | Nova logo transparente fornecida; cabeçalho, rodapé e favicon | Integral | Integral |
 | `dist/images/estetica-aline/aline-santos.webp` | Retrato fornecido; Sobre | Quadro vertical, foco 57% centro | Integral, 1:1 |
 | `dist/images/estetica-aline/hero-estetica-aline.webp` | Mulher adulta fictícia em robe, ambiente representativo; campanha do hero | Moldura vertical, object-position 77% centro, rosto/cabeça/mãos preservados | Moldura de 365 px de altura, mesmo foco, cabeça preservada |
 | `dist/images/estetica-aline/procedimento-facial.webp` | Cuidado facial geral com mãos, sem aparelhos; categoria facial | Integral, 3:2 | Integral, 3:2 |
