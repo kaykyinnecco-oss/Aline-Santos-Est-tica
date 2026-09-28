@@ -32,3 +32,9 @@ Na pasta `site`, execute `npm run build`, `npm run check` e `npm run dev`. A pr�
 - Mapa incorporado sem conteúdo visível no navegador de teste. Links e endereço disponíveis. Instagram/Google/WhatsApp têm destinos conferidos, mas não houve envio de mensagem ou conclusão de agendamento.
 
 Ainda depende de confirmação: domínio público, fonte oficial dos títulos, logo em alta resolução, fotos reais do espaço e depoimentos autorizados/verificáveis.
+
+## Visualização e publicação
+
+A prévia local está em http://localhost:4173. A publicação privada usa Sites. Neste Windows, o auxiliar de empacotamento em Bash não estava disponível; o mesmo validador oficial de arquivos estáticos foi executado diretamente, e o pacote foi montado com o `tar` nativo do Windows. Somente os arquivos públicos de `dist` são incluídos, sem originais de geração ou documentos internos. A publicação foi encaminhada ao serviço; o status confirmado e o endereço estão na entrega da conversa.
+
+Visualização privada confirmada: https://estetica-aline-santos.kayky-innecco.chatgpt.site

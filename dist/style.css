@@ -13,3 +13,11 @@
 .service-description,.wellbeing-detail p{font-size:14px}
 .wellbeing-detail img{width:96px;height:auto;aspect-ratio:3/2;object-fit:contain}
 @media(max-width:600px){.footer-grid a:not(.footer-brand a),.footer-grid address,.location address{font-size:14px}.footer-bottom{font-size:12px}}
+/* Cabeçalho verde com navegação e chamada em bege. */
+.header{background:var(--green);color:var(--beige);border-bottom-color:rgba(243,232,223,.2)}
+.header .button{background:var(--beige);color:var(--green);border-color:var(--beige)}
+.header .button:hover{background:#e4cfba;border-color:#e4cfba}
+.header .menu-toggle{border-color:rgba(243,232,223,.45)}
+.header .menu-toggle span{background:var(--beige)}
+.header .mobile-nav{background:var(--green);border-bottom-color:rgba(243,232,223,.2)}
+.header a:focus-visible,.header button:focus-visible{outline-color:var(--caramel)}
