@@ -1,0 +1,49 @@
+{
+  "mode": "built-in image_gen",
+  "generatedCount": 5,
+  "size": "1536x1024",
+  "ratio": "3:2",
+  "disclaimer": "Imagens geradas por IA, com pessoas e ambientes fictícios. Não representam pessoas ou clínica reais.",
+  "images": [
+    {
+      "name": "hero-estetica-aline",
+      "path": "C:/Users/DELL/.codex/generated_images/aline-assets/hero-estetica-aline.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: website hero photograph. Create one original realistic commercial editorial photograph, horizontal 3:2, 1536x1024. An adult woman around 35 with warm medium brown skin and natural curly dark hair, wearing a closed beige linen robe, seated comfortably in a welcoming wellness room. Half body portrait, whole head fully inside frame, both natural hands resting relaxed in lap with correct fingers and anatomy. Woman occupies the RIGHT third; LEFT half is uncluttered soft cream wall negative space for website copy. Soft natural window light, serene approachable expression, real skin pores and subtle texture, no beauty airbrushing. Restrained palette cream #F3E8DF, dark olive #262E23, caramel #D6A673 in fabrics and interior accents. Beige and olive textiles. Fictional adult person and fictional setting, no reference to any real person or clinic. Avoid logos, text, watermarks, devices, needles, medical equipment, before-after imagery, excessive decoration, cut-off head, malformed hands, nudity.",
+      "review": "Rosto e cabeça inteiros; duas mãos naturalmente sobrepostas no colo, dedos sem deformação evidente; espaço negativo à esquerda.",
+      "reviewScale": "1536x1024, inspeção visual ampliada",
+      "accepted": true
+    },
+    {
+      "name": "procedimento-facial",
+      "path": "C:/Users/DELL/.codex/generated_images/aline-assets/procedimento-facial.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: facial wellness service website photo. Create one original horizontal 3:2 realistic commercial editorial photograph, 1536x1024. Adult woman around 40 with dark brown skin reclines on a comfortable treatment bed, head fully within the composition, eyes gently closed, beige towel neatly wrapping hair, body covered with beige fabric. An adult practitioner's two anatomically correct hands rest softly on the sides of her face at cheeks and jaw, relaxed fingers clearly distinguishable, neutral gentle facial care gesture without depicting any specific treatment technique. Crop practitioner outside view except for two forearms and hands. Natural skin texture, realistic proportions, clean natural nails. Soft window daylight, calm welcoming atmosphere, cream #F3E8DF backdrop, olive #262E23 textile accents, subtle caramel #D6A673. Fictional people and setting. No tools, devices, needles, gloves, logos, text, watermarks, before-after results, exaggerated skin smoothing, extra fingers or malformed anatomy.",
+      "review": "Rosto íntegro e proporcional; mãos com dedos distinguíveis, apoio natural nas laterais do rosto; sem ferramentas.",
+      "reviewScale": "1536x1024, inspeção visual ampliada",
+      "accepted": true
+    },
+    {
+      "name": "cuidado-corporal",
+      "path": "C:/Users/DELL/.codex/generated_images/aline-assets/cuidado-corporal.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: general body wellness service photograph. Create one original realistic commercial editorial photo horizontal 3:2, 1536x1024. Respectful professional body-care scene with an adult woman aged about 35 with light olive skin lying comfortably on her side on a padded treatment bed. A thick beige towel covers her chest completely and another beige towel covers hips and legs completely; a small natural area of lateral waist between towels is visible. Two adult practitioner's anatomically correct hands rest gently side by side on the lateral waist, without showing any specific treatment technique. Focus on relaxed natural hands and side of torso; woman's profile and shoulder softly visible in distance, body proportions physically coherent, no sexualized framing. Soft natural daylight, realistic skin texture and natural body shape. Quiet fictional room, cream #F3E8DF, dark olive #262E23 fabrics and caramel #D6A673 accents. No tools, devices, needles, text, logos, watermark, nudity, exposed breasts, results claims, excessive airbrushing, extra fingers or malformed anatomy. Fictional people and setting, not an actual clinic.",
+      "review": "Rosto e orelha coerentes; duas mãos apoiadas na lateral do corpo, articulações naturais; peito e quadril cobertos por toalhas.",
+      "reviewScale": "1536x1024, inspeção visual ampliada",
+      "accepted": true
+    },
+    {
+      "name": "massagem-relaxante",
+      "path": "C:/Users/DELL/.codex/generated_images/aline-assets/massagem-relaxante.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: relaxing massage website photograph. One original realistic commercial editorial photograph, horizontal 3:2, 1536x1024. Adult woman aged around 40 with medium tan skin lying face down comfortably on a wellness treatment bed, head gently turned to the side on a small cream pillow, closed eyes, peaceful expression, dark hair neatly gathered. Respectful framing from head to upper back only. Thick beige towel securely covers lower back and all lower body, no intimate parts visible. Two adult practitioner's natural anatomically correct hands rest softly on shoulder muscles and upper back in a gentle relaxation massage gesture, five normal fingers per hand, believable wrists and forearms. Soft natural window light, cream #F3E8DF room, olive #262E23 fabric, subtle caramel #D6A673 accents, real skin texture, realistic adult proportions, calm warmth. Fictional person and setting. No text, logos, watermark, devices, tools, needles, medical claims, dramatic pressure, excessive retouching, extra limbs, malformed fingers.",
+      "review": "Rosto, orelha, ombro e costas com anatomia coerente; duas mãos naturais, gesto suave; corpo coberto por toalha.",
+      "reviewScale": "1536x1024, inspeção visual ampliada",
+      "accepted": true
+    },
+    {
+      "name": "auriculoterapia",
+      "path": "C:/Users/DELL/.codex/generated_images/aline-assets/auriculoterapia.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: neutral wellbeing illustration photograph for a wellness service card. Create one original realistic commercial editorial photograph, horizontal 3:2, 1536x1024. Close partial side profile of an adult woman aged around 45 with warm deep brown skin, gently closed eyes and relaxed expression, natural ear fully visible and uncovered, hair smoothly pulled back behind the ear. Ear has entirely normal realistic human anatomy including helix, antihelix, tragus and lobe. Show side of face, ear, neck and a little beige robe shoulder; refined calm composition and real skin texture. Soft natural daylight, shallow depth of field, cream #F3E8DF background with softly blurred olive #262E23 fabric and subtle caramel #D6A673 warmth. This is ONLY a neutral wellbeing portrait, no treatment or procedure is depicted. No hands, no ear seeds, no stickers, no needles, no instruments, no devices, no earrings, no dots or markers on ear, no text, logos, watermark, medical claims, malformed ear or excessive skin smoothing. Fictional adult person and fictional setting.",
+      "review": "Perfil e orelha com anatomia natural; nenhuma aplicação, marcação, semente, instrumento ou mão; imagem neutra de bem-estar.",
+      "reviewScale": "1536x1024, inspeção visual ampliada",
+      "accepted": true
+    }
+  ]
+}
