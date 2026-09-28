@@ -25,5 +25,11 @@ const html=`<!doctype html>
 <a class="floating-wa" href="${esc(whatsapp())}" ${external} aria-label="Conversar com Aline pelo WhatsApp">${waIcon}</a>
 </body></html>`;
 await mkdir('dist',{recursive:true});await writeFile('dist/index.html',html);
-const manifest=JSON.parse(await readFile('.openai/hosting.json','utf8'));manifest.static={directory:'dist'};await writeFile('.openai/hosting.json',JSON.stringify(manifest,null,2)+'\n');
+try {
+ const manifest=JSON.parse(await readFile('.openai/hosting.json','utf8'));
+ manifest.static={directory:'dist'};
+ await writeFile('.openai/hosting.json',JSON.stringify(manifest,null,2)+'\n');
+} catch (error) {
+ if (error?.code !== 'ENOENT') throw error;
+}
 console.log('Página gerada: dist/index.html. Contatos e serviços em data.mjs.');
