@@ -1,0 +1,6 @@
+.sites-runtime/
+.openai/
+assets/originais-gerados/
+docs/screenshots/
+*.zip
+*.tar.gz

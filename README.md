@@ -38,3 +38,15 @@ Ainda depende de confirmação: domínio público, fonte oficial dos títulos, l
 A prévia local está em http://localhost:4173. A publicação privada usa Sites. Neste Windows, o auxiliar de empacotamento em Bash não estava disponível; o mesmo validador oficial de arquivos estáticos foi executado diretamente, e o pacote foi montado com o `tar` nativo do Windows. Somente os arquivos públicos de `dist` são incluídos, sem originais de geração ou documentos internos. A publicação foi encaminhada ao serviço; o status confirmado e o endereço estão na entrega da conversa.
 
 Visualização privada confirmada: https://estetica-aline-santos.kayky-innecco.chatgpt.site
+
+## Hospedagem na Vercel
+
+O projeto está pronto para importação direta pela Vercel a partir do GitHub. O arquivo `vercel.json` configura:
+
+- comando de build: `npm run build`;
+- diretório público: `dist`;
+- URLs limpas e sem barra final obrigatória.
+
+Não há variáveis de ambiente obrigatórias. Na Vercel, importe o repositório, mantenha a raiz do projeto como `.` e confirme o deploy. A integração Git da Vercel fará novos deploys a cada atualização da branch principal.
+
+Quando o domínio definitivo estiver configurado, preencha `canonical` em `data.mjs` e execute `npm run build` para habilitar a URL canônica e URLs absolutas de compartilhamento.
